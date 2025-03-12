@@ -1,5 +1,4 @@
 import Stopwatch from "@/components/Stopwatch";
-import Image from "next/image";
 
 export default function Home() {
   return (
